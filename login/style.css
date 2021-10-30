@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+
+.row2 {
+    text-align: center;
+}
+
+.card1 {
+    background-color: rgb(206, 206, 204, 0.8);
+    border-radius: 50px;
+    box-shadow:0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
+.row1 {
+    height: 100px;
+}
+
+.row3 {
+    height: 30px;
+}
+
+.card-row1 {
+    height: 50px;
+}
+
+.card-row3 {
+    height: 50px;
+}
